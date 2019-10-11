@@ -1,0 +1,5 @@
+x = ('Vinith','Tejesh')
+y = list(x)
+list[1] = "Ranjith"
+x = tuple(y)
+print(x)
