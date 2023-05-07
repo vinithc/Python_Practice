@@ -1,0 +1,5 @@
+Function newresourse(context)
+{
+  Var formcontext = context.formcontext.get();
+
+}
